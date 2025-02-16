@@ -1,0 +1,7 @@
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\bin\Debug\eduwealth-bank.exe.config
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\bin\Debug\eduwealth-bank.exe
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\bin\Debug\eduwealth-bank.pdb
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\obj\Debug\eduwealth-bank.csproj.AssemblyReference.cache
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\obj\Debug\eduwealth-bank.csproj.CoreCompileInputs.cache
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\obj\Debug\eduwealth-bank.exe
+C:\Users\linar\source\repos\eduwealth-bank\eduwealth-bank\obj\Debug\eduwealth-bank.pdb
